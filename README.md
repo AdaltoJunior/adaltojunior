@@ -21,12 +21,9 @@
   <img title="NodeJS" alt="NodeJS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
 </div>
 
-<br />
+<hr />
 
-<div style="display: flex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdaltoJunior&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaltoJunior&layout=compact&langs_count=3&theme=onedark"/>
-</div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaltoJunior&layout=compact&langs_count=3&theme=onedark"/>
 
 <hr />
 
