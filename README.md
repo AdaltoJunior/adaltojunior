@@ -31,8 +31,10 @@
   <a href="https://www.linkedin.com/in/adalto-junior-934b0010a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://app.rocketseat.com.br/me/adalto-junior-1566816481"><img src="https://img.shields.io/badge/-Rocketseat-8257E6?style=for-the-badge&logo=apache-rocketmq&logoColor=white" /></a>
   <a href = "mailto:mendesrochajunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div>
+</div>
   
- <hr />
-  
-  <strong>#NeverStopLearning</strong>
+<hr />
+
+<img src="./assets/key.jpg" /> <br />
+
+<strong>#NeverStopLearning</strong>
