@@ -2,7 +2,7 @@
 
 <ul>
   <li>Entusiasta em <strong>Desenvolvimento Web Full Stack</strong>.</li>
-  <li>Atuante no mercado dede 2018 (atualmente autônomo).</li>
+  <li>Atuante no mercado desde 2018 (atualmente autônomo).</li>
   <li>Apaixonado pelo ecossistema <strong>Javascript</strong>.</li>
   <li>Aluno <strong>Pioneer <a href='https://www.rocketseat.com.br/'>Rocketseat</a></strong>, cursando o programa <strong><a href='https://www.rocketseat.com.br/ignite'>Ignite</a>.</strong></li>
   <li>Em busca do <strong>Próximo Nível</strong>.</li>
